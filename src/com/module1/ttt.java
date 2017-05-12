@@ -1,3 +1,5 @@
+package com.module1;
+
 import java.lang.String;
 
 class ttt {
