@@ -1,2 +1,2 @@
 # iBank
-internet banking
+internet banking by UkrCard company (c)
