@@ -6,4 +6,12 @@ class ttt {
     public static void main(String[] args) {
         System.out.println("Hi, " + ss);
     }
+
+    public static String getSs() {
+        return ss;
+    }
+
+    public static void setSs(String ss) {
+        ttt.ss = ss;
+    }
 }
